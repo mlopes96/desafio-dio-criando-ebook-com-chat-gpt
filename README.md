@@ -10,6 +10,6 @@ Criação de um ebook sobre recursos avançados disponibilizados pela biblioteca
 - Edição e diagramação: [PowerPoint](https://www.microsoft.com/pt-br/microsoft-365/powerpoint)
 
 ## 🧐 Processo de Criação
-Criação e refinamento dos prompts para desenvolvimento do conteúdo com o auxílio do chat GPT. 
-Criação das imagens dos códigos no site Carbon. 
-Criação e diagramação da capa e do ebook pelo Power Point.
+- Criação e refinamento dos prompts para desenvolvimento do conteúdo com o auxílio do chat GPT. 
+- Criação das imagens dos códigos de exemplo através do site Carbon. 
+- Criação e diagramação da capa e do ebook usando o Power Point.
