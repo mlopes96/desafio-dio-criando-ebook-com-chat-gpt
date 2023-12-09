@@ -1,7 +1,7 @@
 # Criação de ebook com auxílio do Chat GPT
 
 ## 📒 Descrição
-Criação de um ebook sobre recursos avançados disponibilizados pela biblioteca Pandas, que são uma verdadeira mão na roda para quem deseja tirar poderososo insigts dos dados analizados utilizando Python.
+Criação de um ebook sobre recursos avançados disponibilizados pela biblioteca Pandas, que são uma verdadeira mão na roda para quem deseja tirar poderosos insights dos dados analisados utilizando Python.
 
 ## 🤖 Tecnologias Utilizadas
 - Imagem usada na capa:  [Lexica.art](https://lexica.art/)
